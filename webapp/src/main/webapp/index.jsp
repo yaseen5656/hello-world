@@ -6,12 +6,6 @@
 
     <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" required>
-     
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" required>
-
-    <label for="Dob"><b>Dob</b></label>
-    <input type="text" placeholder="Enter DOB" name="DOB" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
