@@ -7,9 +7,6 @@
     <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" required>
 
-    <label for="last-Name"><b>Name</b></label>
-    <input type="text" placeholder="Enter last-Name" name="last-name" required>
-
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
