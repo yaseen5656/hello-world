@@ -4,15 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="Name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" required>
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
-
-    <label for="dob"><b>dob</b></label>
-    <input type="Dob" placeholder="Enter dob" name="dob" required>
-
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
@@ -29,3 +25,4 @@
     </div>
   </div>
 </form>
+
