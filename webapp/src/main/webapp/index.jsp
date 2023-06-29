@@ -1,4 +1,3 @@
-
 <div class="container">
   <form action="/action_page.php">
     <div class="row">
