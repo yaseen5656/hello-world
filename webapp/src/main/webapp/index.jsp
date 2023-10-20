@@ -16,6 +16,9 @@
     <label for="email"><b>email</b></label>
     <input type="email" placeholder="Enter email" name="email" required>
 
+    <label for="pin"><b>pin</b></label>
+    <input type="pin" placeholder="Enter pin" name="pin" required>
+
 
     <button type="submit">Login</button>
     <label>
